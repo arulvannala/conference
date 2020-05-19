@@ -10,7 +10,7 @@
 This project is a Spring application.  
 The main purpose is to manage speakers and sessions to schedule conferences.  
 There are two general endpoints created to list all data:
-1. <a href="https://conference-kpilszak.herokuapp.com/api/v1/sessions">https://conference-kpilszak.herokuapp.com/api/v1/sessions</a> /api/v1/sessions 
+1. <a href="https://conference-kpilszak.herokuapp.com/api/v1/sessions">https://conference-kpilszak.herokuapp.com/api/v1/sessions</a>
 2. <a href="https://conference-kpilszak.herokuapp.com/api/v1/speakers">https://conference-kpilszak.herokuapp.com/api/v1/speakers</a>
 
 ## Technologies
