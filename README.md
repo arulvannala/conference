@@ -16,7 +16,7 @@ There are two general endpoints created to list all data:
 ## Technologies
 Project is created with:
 * Java 11
-* Spring Boot 2.2
+* Spring Boot 2.3.0
 * Maven
 * PostgreSQL
 IDE: Intellij IDEA 2018
